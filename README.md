@@ -1,2 +1,0 @@
-# card-validation
-CARD VALIDATION
